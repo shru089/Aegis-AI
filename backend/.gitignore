@@ -1,0 +1,10 @@
+node_modules/
+.env
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+saved_models/
+coverage/
+.nyc_output/
+dist/
