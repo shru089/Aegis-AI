@@ -64,4 +64,4 @@ npm run simulate
 ```
 
 ---
-*Built for the 12-hour Hackathon Sprint. Aegis.AI Architecture v1.0*
+* Aegis.AI Architecture v1.0*
